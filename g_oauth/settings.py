@@ -38,7 +38,7 @@ INSTALLED_APPS = [
 
     # custom app for G-oauth
     'django.contrib.sites',
-    'oauth_app',
+    'g_oauth',
     # registering django-allauth
     'allauth',
     'allauth.account',
